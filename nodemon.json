@@ -1,0 +1,14 @@
+{
+    "verbose": false,
+    "watch": [
+        "app",
+        "config",
+        "start",
+        "next",
+        ".env"
+    ],
+    "ignore": [
+        "src/*"
+ 
+    ]
+  }
